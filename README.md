@@ -2,7 +2,8 @@
 En la primera parte del parcial, creamos el servicio Usuarios y el servicio de Eureka. Al levantar ambos serivicos, obtenderemos lo siguiente:
 
 * Log del servicio Eureka
-  ![image](https://github.com/valentina0612/ParcialDosServicios/assets/126031586/fce285aa-99e0-4997-a149-1dc9ea843a61)
+  ![image](https://github.com/valentina0612/ParcialDosServicios/assets/126031586/f0a769d5-312d-4c27-9dd5-18d35b483f28)
+
 
 * Log del servicio Usuarios
   ![Captura de pantalla 2024-04-21 112647](https://github.com/valentina0612/ParcialDosServicios/assets/126031586/b723c4ed-d26c-45c8-82a2-8b1c3208212f)
