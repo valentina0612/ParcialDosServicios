@@ -1,4 +1,4 @@
-package com.co.beca.usuarios;
+package com.co.beca.curso;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -12,10 +12,10 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @ComponentScan({"com.co.beca.common.usuario.models.entity"})
 @EnableJpaRepositories({"com.co.beca.common.usuario.models.entity"})
 @EntityScan({"com.co.beca.common.usuario.models.entity"})
-public class UsuariosApplication {
+public class MicroservicioSpringCursoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UsuariosApplication.class, args);
+		SpringApplication.run(MicroservicioSpringCursoApplication.class, args);
 	}
 
 }
