@@ -1,5 +1,5 @@
 # Segundo Parcial
-En la primera parte del parcial, creamos el servicio Usuarios y el servicio de Eureka. Al levantar ambos serivicos, obtenderemos lo siguiente:
+En la primera parte del parcial, creamos el servicio Usuarios y el servicio de Eureka. Al levantar ambos serivicos, obtendremos lo siguiente:
 
 * Log del servicio Eureka
   ![image](https://github.com/valentina0612/ParcialDosServicios/assets/126031586/f0a769d5-312d-4c27-9dd5-18d35b483f28)
@@ -19,7 +19,7 @@ En la segunda parte del parcial, creamos un servicio que servirá como API Gatew
 
 En la tercera parte del parcial, construimos el servicio Cursos y otro que se utilizará como librería que permita reusar los componentes entity en todos los servicios. También estableció la relación uno a muchos entre las entidades Curso y Alumno.
 
-Finalemente, obtenemos lo siguiente:
+Finalmente, obtenemos lo siguiente:
 * Base de Datos
   ![image](https://github.com/valentina0612/ParcialDosServicios/assets/126031586/f2127f51-ddb8-4643-83bf-10be4a9f6f2f)
 
